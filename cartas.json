@@ -1,0 +1,1567 @@
+{
+  "items": [
+    {
+      "name": "Cavaleiro",
+      "id": 26000000,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 3,
+      "hp":1766,
+      "dmg":202,  
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Arqueiras",
+      "id": 26000001,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 3,
+      "hp":304,
+      "dmg":112,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Goblins",
+      "id": 26000002,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "hp":202,
+      "dmg":120,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/X_DQUye_OaS3QN6VC9CPw05Fit7wvSm3XegXIXKP--0.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Gigante",
+      "id": 26000003,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":253,
+      "hp":4090,
+       
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "P.E.K.K.A",
+      "id": 26000004,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 7,
+      "hp":3760,
+      "dmg":816,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Servos",
+      "id": 26000005,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "hp":230,
+      "dmg":107,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Balão",
+      "id": 26000006,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "hp":1679,
+      "dmg":640,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Bruxa",
+      "id": 26000007,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 5,
+      "hp":839,
+      "dmg":135,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Bárbaros",
+      "id": 26000008,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 5,
+      "dmg":210,
+      "hp":670,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Golem",
+      "id": 26000009,
+      "maxLevel": 15,
+      "elixirCost": 8,
+      "hp":5120,
+      "dmg":312,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Esqueletos",
+      "id": 26000010,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 1,
+      "hp":81,
+      "dmg":81,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Valquíria",
+      "id": 26000011,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "hp":1907,
+      "dmg":266,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Exército de Esqueletos",
+      "id": 26000012,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":81,
+      "hp":81,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/fAOToOi1pRy7svN2xQS6mDkhQw2pj9m_17FauaNqyl4.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Bombardeiro",
+      "id": 26000013,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 2,
+      "dmg":225,
+      "hp":304,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/12n1CesxKIcqVYntjxcF36EFA-ONw7Z-DoL0_rQrbdo.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/12n1CesxKIcqVYntjxcF36EFA-ONw7Z-DoL0_rQrbdo.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Mosqueteira",
+      "id": 26000014,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":217,
+      "hp":721,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Bebê Dragão",
+      "id": 26000015,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":161,
+      "hp":1152,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Princípe",
+      "id": 26000016,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":391,
+      "hp":1920,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Mago",
+      "id": 26000017,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 5,
+      "dmg":281,
+      "hp":755,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Mini P.E.K.K.A",
+      "id": 26000018,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":775,
+      "hp":1433,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Goblins Lanceiros",
+      "id": 26000019,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":81,
+      "hp":146,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Esqueleto Gigante",
+      "id": 26000020,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":276,
+      "hp":3617,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Corredor",
+      "id": 26000021,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":317,
+      "hp":1697,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Horda de Servos",
+      "id": 26000022,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":107,
+      "hp":230,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Mago de Gelo",
+      "id": 26000023,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":89,
+      "hp":688,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Gigante Real",
+      "id": 26000024,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 6,
+      "dmg":307,
+      "hp":3164,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Guardas",
+      "id": 26000025,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":117,
+      "hp":81,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/1ArKfLJxYo6_NU_S9cAeIrfbXqWH0oULVJXedxBXQlU.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Princesa",
+      "id": 26000026,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":168,
+      "hp":261,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Princípe das Trevas",
+      "id": 26000027,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":266,
+      "hp":1200,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Três Mosqueteiras",
+      "id": 26000028,
+      "maxLevel": 15,
+      "elixirCost": 9,
+      "dmg":217,
+      "hp":721,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Lava Hound",
+      "id": 26000029,
+      "maxLevel": 15,
+      "elixirCost": 7,
+      "dmg":53,
+      "hp":3581,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Espírito de Gelo",
+      "id": 26000030,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 1,
+      "dmg":110,
+      "hp":230,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Espírito de Fogo",
+      "id": 26000031,
+      "maxLevel": 15,
+      "elixirCost": 1,
+      "dmg":207,
+      "hp":230,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/16-BqusVvynIgYI8_Jci3LDC-r8AI_xaIYLgXqtlmS8.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Mineiro",
+      "id": 26000032,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":194,
+      "hp":1210,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Sparky",
+      "id": 26000033,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":1331,
+      "hp":1451,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Lançador",
+      "id": 26000034,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":289,
+      "hp":2081,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Lenhador",
+      "id": 26000035,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":256,
+      "hp":1282,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Aríete de Batalha",
+      "id": 26000036,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":286,
+      "hp":967,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Dragão Infernal",
+      "id": 26000037,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":"35-384",
+      "hp": 1295,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Golem de Gelo",
+      "id": 26000038,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":84,
+      "hp":1315,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/r05cmpwV1o7i7FHodtZwW3fmjbXCW34IJCsDEV5cZC4.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Megasservo",
+      "id": 26000039,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":312,
+      "hp":837,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/-T_e4YLbuhPBKbYnBwQfXgynNpp5eOIN_0RracYwL9c.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Goblin Com Dardo",
+      "id": 26000040,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 3,
+      "dmg":156,
+      "hp":261,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Gangue De Goblins",
+      "id": 26000041,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":"120-81",
+      "hp":"202-133",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Mago Elétrico",
+      "id": 26000042,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":"117 x2",
+      "hp": 714,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Bárbaros de Elite",
+      "id": 26000043,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":384,
+      "hp":1341,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Caçador",
+      "id": 26000044,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg": "84 x10",
+      "hp": 885,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Executor",
+      "id": 26000045,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 5,
+      "dmg":"168 x2",
+      "hp":1405,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Bandida",
+      "id": 26000046,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":194,
+      "hp":906,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Recrutas Reais",
+      "id": 26000047,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 7,
+      "dmg":113,
+      "hp":547,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/jcNyYGUiXXNz3kuz8NBkHNKNREQKraXlb_Ts7rhCIdM.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/jcNyYGUiXXNz3kuz8NBkHNKNREQKraXlb_Ts7rhCIdM.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Bruxa Sombria",
+      "id": 26000048,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":314,
+      "hp":906,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/NpCrXDEDBBJgNv9QrBAcJmmMFbS7pe3KCY8xJ5VB18A.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Morcegos",
+      "id": 26000049,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 2,
+      "dmg":81,
+      "hp":81,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Fantasma Real",
+      "id": 26000050,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":261,
+      "hp":1210,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Domadora de Carneiro",
+      "id": 26000051,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":"250-104",
+      "hp":1697,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Eletrocutadores",
+      "id": 26000052,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":117,
+      "hp":529,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/QZfHRpLRmutZbCr5fpLnTpIp89vLI6NrAwzGZ8tHEc4.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Patifes",
+      "id": 26000053,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":"204-125",
+      "hp":"1940-261",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Carrinho de Canhão",
+      "id": 26000054,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":212,
+      "hp":1809,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Mega Cavaleiro",
+      "id": 26000055,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 7,
+      "dmg":268,
+      "hp":3993,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Barril de Esqueletos",
+      "id": 26000056,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 3,
+      "dmg":145,
+      "hp":532,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Máquina Voadora",
+      "id": 26000057,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":171,
+      "hp":614,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/hzKNE3QwFcrSrDDRuVW3QY_OnrDPijSiIp-PsWgFevE.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Destruidores de Muros",
+      "id": 26000058,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 2,
+      "dmg":391,
+      "hp":330,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/_xPphEfC8eEwFNrfU3cMQG9-f5JaLQ31ARCA7l3XtW4.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/_xPphEfC8eEwFNrfU3cMQG9-f5JaLQ31ARCA7l3XtW4.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Porcos Reais",
+      "id": 26000059,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":74,
+      "hp":837,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Goblin Gigante",
+      "id": 26000060,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 6,
+      "dmg":176,
+      "hp":3020,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Pescador",
+      "id": 26000061,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":194,
+      "hp":870,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/U2KZ3g0wyufcuA5P2Xrn3Z3lr1WiJmc5S0IWOZHgizQ.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Arqueiro Mágico",
+      "id": 26000062,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":133,
+      "hp":529,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Avli3W7BxU9HQ2SoLiXnBgGx25FoNXUSFm7OcAk68ek.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Dragão Elétrico",
+      "id": 26000063,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 5,
+      "dmg":192,
+      "hp":949,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/tN9h6lnMNPCNsx0LMFmvpHgznbDZ1fBRkx-C7UfNmfY.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/tN9h6lnMNPCNsx0LMFmvpHgznbDZ1fBRkx-C7UfNmfY.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Pirotécnica",
+      "id": 26000064,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 3,
+      "dmg":"64 x5",
+      "hp":304,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/c1rL3LO1U2D9-TkeFfAC18gP3AO8ztSwrcHMZplwL2Q.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/c1rL3LO1U2D9-TkeFfAC18gP3AO8ztSwrcHMZplwL2Q.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Mineiro Bombado",
+      "id": 26000065,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":"40-409",
+      "hp":2250,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Cd9R56yraxTvJiD8xJ2qT2OdsHyh94FqOAarXpbyelo.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Golem de Elixir",
+      "id": 26000067,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":253,
+      "hp":1569,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/puhMsZjCIqy21HW3hYxjrk_xt8NIPyFqjRy-BeLKZwo.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Curadora Guerreira",
+      "id": 26000068,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":148,
+      "hp":1717,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/KdwXcoigS2Kg-cgA7BJJIANbUJG6SNgjetRQ-MegZ08.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Rei Esqueleto",
+      "id": 26000069,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":204,
+      "hp":2298,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/dCd69_wN9f8DxwuqOGtR4QgWhHIPIaTNxZ1e23RzAAc.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Rainha Arqueira",
+      "id": 26000072,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":225,
+      "hp":1000,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Cavaleiro Dourado",
+      "id": 26000074,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":161,
+      "hp":1799,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Monge",
+      "id": 26000077,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":"140-422",
+      "hp":2214,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Dragões Esqueleto",
+      "id": 26000080,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":161,
+      "hp":560,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Bruxa Mãe",
+      "id": 26000083,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":133,
+      "hp":529,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/fO-Xah8XZkYKaSK9SCp3wnzwxtvIhun9NVY-zzte1Ng.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Espírito Elétrico",
+      "id": 26000084,
+      "maxLevel": 15,
+      "elixirCost": 1,
+      "dmg":99,
+      "hp":230,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/WKd4-IAFsgPpMo7dDi9sujmYjRhOMEWiE07OUJpvD9g.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Gigante Elétrico",
+      "id": 26000085,
+      "maxLevel": 15,
+      "elixirCost": 7,
+      "dmg":"163-192",
+      "hp":3855,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/_uChZkNHAMq6tPb3v6A49xinOe3CnhjstOhG6OZbPYc.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Fênix",
+      "id": 26000087,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":217,
+      "hp":1052,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/i0RoY1fs6ay7VAxyFEfZGIPnD002nAKcne9FtJsWBHM.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Pequeno Príncipe",
+      "id": 26000093,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":99,
+      "hp":698,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/dY-gSseki6KBpkIG17safHH5YlB8SErFZO9OXbJxf9w.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Goblin Demolidor",
+      "id": 26000095,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":"186-404",
+      "hp":1300,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/KVVOgdn40xasFLYuQv8Go_U_LCV7wSG9q9eE1H7f3Qk.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Máquina Globin",
+      "id": 26000096,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":212,
+      "hp":2150,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/-iLlotr6GCFndL_1BSBqWBb6DnsHBhLerd5EblZDNfU.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Arbusto Suspeito",
+      "id": 26000097,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":256,
+      "hp":"81-304",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/vqTzGAjseQv9F5rf4tsFWeocvg0dyPw1j_nB1cmDZfI.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Goblinstein",
+      "id": 26000099,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":92,
+      "hp":721,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Gigante das Runas",
+      "id": 26000101,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":120,
+      "hp":2662,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/UogMnGHQXT-TOVXRxslKdAKXUPhqUvrD_hV9x8lbzdE.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Berserker",
+      "id": 26000102,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":102,
+      "hp":896,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/NA6W8S1JBYBlOPwD3dNvJLFvVDKq-UuBs_J3i3ewLFI.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Bandida Líder",
+      "id": 26000103,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":"268-537",
+      "hp":2624,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
+      },
+      "rarity": "campeão"
+    },
+    {
+      "name": "Canhão",
+      "id": 27000000,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 3,
+      "dmg":212,
+      "hp":824,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Cabana de Goblins",
+      "id": 27000001,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":81,
+      "hp":1180,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Morteiro",
+      "id": 27000002,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":266,
+      "hp":1369,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Torre Inferno",
+      "id": 27000003,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":"43-847",
+      "hp":1748,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/GSHY_wrooMMLET6bG_WJB8redtwx66c4i80ipi4gYOM.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Torre de Bombas",
+      "id": 27000004,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":222,
+      "hp":1356,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/rirYRyHPc97emRjoH-c1O8uZCBzPVnToaGuNGusF3TQ.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Cabana de Bárbaros",
+      "id": 27000005,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":192,
+      "hp":1164,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/ho0nOG2y3Ch86elHHcocQs8Fv_QNe0cFJ2CijsxABZA.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Tesla",
+      "id": 27000006,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":220,
+      "hp":1152,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Coletor de Elixir",
+      "id": 27000007,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":"não tem :(",
+      "hp":1070,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/BGLo3Grsp81c72EpxLLk-Sofk3VY56zahnUNOv3JcT0.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "X-Besta",
+      "id": 27000008,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":43,
+      "hp":1600,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Lápide",
+      "id": 27000009,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":81,
+      "hp":529,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Fornalha",
+      "id": 27000010,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":"179-207",
+      "hp":"727-230",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Jaula de Goblin",
+      "id": 27000012,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":"337",
+      "hp":"780-1080",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/vD24bBgK4rSq7wx5QEbuqChtPMRFviL_ep76GwQw1yA.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/vD24bBgK4rSq7wx5QEbuqChtPMRFviL_ep76GwQw1yA.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Escavadeira de Goblins",
+      "id": 27000013,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 4,
+      "dmg":84,
+      "hp":1313,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Bola de Fogo",
+      "id": 28000000,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":"688-207",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Flechas",
+      "id": 28000001,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":"366-93",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Fúria",
+      "id": 28000002,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":"179-54",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/bGP21OOmcpHMJ5ZA79bHVV2D-NzPtDkvBskCNJb7pg0.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Foguete",
+      "id": 28000003,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":"1484-371",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Barril de Goblin",
+      "id": 28000004,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 3,
+      "dmg":120,
+      "hp":202,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Gelo",
+      "id": 28000005,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":"115-35",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/I1M20_Zs_p_BS1NaNIVQjuMJkYI_1-ePtwYZahn0JXQ.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Espelho",
+      "id": 28000006,
+      "maxLevel": 15,
+      "dmg":"Depende da Carta :O",
+      "hp":"Depende da Carta :O",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/wC6Cm9rKLEOk72zTsukVwxewKIoO4ZcMJun54zCPWvA.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Relâmpago",
+      "id": 28000007,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":"1057-286",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Zap",
+      "id": 28000008,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 2,
+      "dmg":"192-58",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Veneno",
+      "id": 28000009,
+      "maxLevel": 15,
+      "elixirCost": 4,
+      "dmg":"92/s-23/s",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Cemitério",
+      "id": 28000010,
+      "maxLevel": 15,
+      "elixirCost": 5,
+      "dmg":81,
+      "hp":81,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Tronco",
+      "id": 28000011,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":"268-41",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Tornado",
+      "id": 28000012,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":"84-27",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Clone",
+      "id": 28000013,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":"Depende da Carta :O",
+      "hp":1,
+      "iconUrls": {
+       "medium": "https://api-assets.clashroyale.com/cards/300/mHVCet-1TkwWq-pxVIU2ZWY9_2z7Z7wtP25ArEUsP_g.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Terremoto",
+      "id": 28000014,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":"81/s-52/s",
+      "hp":"Não tem :(",
+      
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/XeQXcrUu59C52DslyZVwCnbi4yamID-WxfVZLShgZmE.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Barril de Bárbaro",
+      "id": 28000015,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":240,
+      "hp":670,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Espírito de Cura",
+      "id": 28000016,
+      "maxLevel": 15,
+      "elixirCost": 1,
+      "dmg":110,
+      "hp":230,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/GITl06sa2nGRLPvboyXbGEv5E3I-wAwn1Eqa5esggbc.png"
+      },
+      "rarity": "raro"
+    },
+    {
+      "name": "Bola de Neve",
+      "id": 28000017,
+      "maxLevel": 15,
+      "maxEvolutionLevel": 1,
+      "elixirCost": 2,
+      "dmg":"179-54",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/7MaJLa6hK9WN2_VIshuh5DIDfGwm0wEv98gXtAxLDPs.png",
+        "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/7MaJLa6hK9WN2_VIshuh5DIDfGwm0wEv98gXtAxLDPs.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Encomenda Real",
+      "id": 28000018,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":437,
+      "hp":547,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/LPg7AGjGI3_xmi7gLLgGC50yKM1jJ2teWkZfoHJcIZo.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Vácuo",
+      "id": 28000023,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":"320-17",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/BykyeWDqzn4PlHSszu3NbrXT1mHxW2EA8vHbQGR5LDE.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Maldição Goblin",
+      "id": 28000024,
+      "maxLevel": 15,
+      "elixirCost": 2,
+      "dmg":"35/s-10/s",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/OQPfGgT5mHEUvPuKKt0plZT0PNtIjCqUgQ3Rm86dQ2k.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Imperatriz Espiritual",
+      "id": 28000025,
+      "maxLevel": 15,
+      "elixirCost": 6,
+      "dmg":"307",
+      "hp":"1192-1134",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/MWWBZqiQeRBXSqEITVMj46nO_uCIUsqBidvUw9K2twY.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Vinhas",
+      "id": 28000026,
+      "maxLevel": 15,
+      "elixirCost": 3,
+      "dmg":"153/s-38/s",
+      "hp":"Não tem :(",
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/V5sJlPuo2WBRtirJ1lGEPJA4NvQ0KPwFeMrpxLX5z_8.png"
+      },
+      "rarity": "épico"
+    }
+  ],
+  "supportItems": [
+    {
+      "name": "Princesa da Torre",
+      "id": 159000000,
+      "maxLevel": 15,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/Nzo5Gjbh7NG6O3Hyu7ev54Pu5zK7vDMR2fbpGdVsS64.png"
+      },
+      "rarity": "comum"
+    },
+    {
+      "name": "Canhoneiro",
+      "id": 159000001,
+      "maxLevel": 15,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/cUfU4UowRdbIiRvxv0ns4ezQUNndJTy7D2q4I_K_fzg.png"
+      },
+      "rarity": "épico"
+    },
+    {
+      "name": "Duquesa das Adagas",
+      "id": 159000002,
+      "maxLevel": 15,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/MVj028nMLCmBuP3HlV503uxVAxFg7jyliJVZ5JYJ1h8.png"
+      },
+      "rarity": "lendário"
+    },
+    {
+      "name": "Chefe Real",
+      "id": 159000004,
+      "maxLevel": 15,
+      "iconUrls": {
+        "medium": "https://api-assets.clashroyale.com/cards/300/CLxP2o0iX7q9peMkekI8Ki4DgWixra8L5aUbiAeBU9U.png"
+      },
+      "rarity": "lendário"
+    }
+  ]
+}
